@@ -9,7 +9,7 @@
 #   None
 #
 # Commands:
-#   compliment me - Hubot gives a very nice compliment
+#   hubot compliment me - Hubot gives a very nice compliment
 #
 # Author:
 #   tarebyte
